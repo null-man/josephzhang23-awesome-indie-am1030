@@ -16,6 +16,9 @@
 **注意：**
 * [$] 表示这不是免费的，我很可能也没试过，但在参考多方资料后，仍然决定将其收录。
 * 这个 repo 曾经登顶 [Github 趋势榜第一名](https://medium.com/@mezood/making-money-from-your-own-code-has-never-been-easier-but-its-still-hard-2242ddaae6a1)！:_)
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+* [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 ## 目录
 * 社区
